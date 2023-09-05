@@ -3,12 +3,7 @@
 
 ### Instructions:
 
-Use GitHub, GitHub Desktop, and Jupyter Notebooks to edit the starter *Python Interactive Notebook* file called <code>CoordinateCalculator.ipynb</code> so that user-supplied geographic coordinates in degrees-minutes-second (DDMMSS) format are converted to decimal degrees (DD).  Make sure that your notebook includes the following elements, features, and/or capabilities:
-
-1. Requests and accepts user-supplied coordinates in DDMMSS format (e.g., 391120 or 39 11 20) using the Python <code>input()</code> function.
-2. Performs all necessary mathematical operations to convert the input coordinate into DD as a floating point number.
-3. Prints the resulting DD coordinate at along with a friendly message.  For example, "Your final result is:  39.19 degrees".
-4. Incorporates several text blocks in Markdown format explaining what your Python code blocks accomplish..
+Accept the GitHub Classroom assignment *GitHub-FirstPythonScript and clone the new repository as a local personal repository.  Uncompress the provided ZIP file to access the ArcGIS Pro project file in your local repository workspace.  The only file which needs to be pushed to origin at the conclusion of the exercise is a single Python script.  Should you encounter difficulties during the week, seek assistance by posting an issue in GitHub.
 
 ### Task:
 
@@ -20,10 +15,10 @@ Edit the provided stand-alone Python script called <code>GitHub-FirstPythonScrip
 4. Script includes many examples of good and concise commenting.
 5. Script includes a complete "header" section with correct information.
 
-## Challenge:
+## Rubric:
 
-See if you can find and apply the built-in Python function that will automatically round your final answer to two decimal places.
+Review the assignment rubric available on Canvas for additional details on how your work will be assessed. 
 
 ## Submission:
 
-Commit your code changes to your assignment repository on GitHub.
+Commit your code changes for <code>GitHub-FirstPythonScript</code> to your assignment repository on GitHub.
