@@ -3,7 +3,7 @@
 
 ### Instructions:
 
-Accept the GitHub Classroom assignment *GitHub-FirstPythonScript and clone the new repository as a local personal repository.  Uncompress the provided ZIP file to access the ArcGIS Pro project file in your local repository workspace.  The only file which needs to be pushed to origin at the conclusion of the exercise is a single Python script.  Should you encounter difficulties during the week, seek assistance by posting an issue in GitHub.
+Accept the GitHub Classroom assignment <code>GitHub-FirstPythonScript</code> and clone the new repository as a local personal repository.  Uncompress the provided ZIP file to access the ArcGIS Pro project file in your local repository workspace.  The only file which needs to be pushed to origin at the conclusion of the exercise is a single Python script.  Should you encounter difficulties during the week, seek assistance by posting an issue in GitHub.
 
 ### Task:
 
