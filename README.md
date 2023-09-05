@@ -7,7 +7,7 @@ Accept the GitHub Classroom assignment <code>GitHub-FirstPythonScript</code> and
 
 ### Task:
 
-Edit the provided stand-alone Python script called <code>GitHub-FirstPythonScript</code> so that it  accomplishes the following objectives and/or includes these specific features:
+Edit the provided stand-alone Python script called <code>GitHub-FirstPythonScript.py</code> so that it  accomplishes the following objectives and/or includes these specific features:
 
 1. Selects the Flint Hills ecoregion and performs a 10 km buffer operation.
 2. Clips major rivers in Kansas using the buffered ecoregion boundary.
