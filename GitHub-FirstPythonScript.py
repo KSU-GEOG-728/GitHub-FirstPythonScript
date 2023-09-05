@@ -12,3 +12,6 @@
 # Import arcpy module and allow overwrites
 import arcpy
 arcpy.env.overwriteOutput = True
+
+# Set current workspace
+arcpy.env.workspace = "D:/GIS_Teaching/GEOG728_TeachingProjects/Exercise04/Exercise04.gdb"
