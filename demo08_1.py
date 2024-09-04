@@ -14,7 +14,7 @@ import arcpy
 arcpy.env.overwriteOutput = True
 
 # Set current workspace
-arcpy.env.workspace = "D:/GIS_Teaching/GEOG728_TeachingProjects/Exercise04/Exercise04.gdb"
+arcpy.env.workspace = "D:/GIS_Teaching/GEOG728_TeachingProjects/GitHub-FirstPythonScript/ExerciseData.gdb"
 
 # Perform geoprocessing
 selectRiver = arcpy.management.SelectLayerByAttribute("ks_major_rivers", "NEW_SELECTION", "GNIS_Name = 'Kansas River'")
