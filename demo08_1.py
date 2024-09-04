@@ -5,7 +5,7 @@
 	File name: demo08_1.py
 	Author:  Shawn Hutchinson
 	Description: Example script that selects Kansas counties through which a major river passes
-	Data created: 9/13/2023
+	Data created: 9/4/2024
 	Python version: 3.9.16
 """
 
