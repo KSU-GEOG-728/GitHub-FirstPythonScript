@@ -12,7 +12,7 @@
 # Import arcpy module and set environments
 import arcpy
 arcpy.env.overwriteOutput = True
-arcpy.env.workspace = "D:/GIS_Teaching/GEOG728_TeachingProjects/GitHub-FirstPythonScript/ExerciseData.gdb"
+arcpy.env.workspace = "D:/GitHub/GitHub-FirstPythonScript/GISProject/ExerciseData.gdb"
 
 # Establish local variables
 inputFeatures = "ks_major_rivers"

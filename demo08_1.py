@@ -14,11 +14,9 @@ import arcpy
 arcpy.env.overwriteOutput = True
 
 # Set current workspace
-arcpy.env.workspace = "D:/GIS_Teaching/GEOG728_TeachingProjects/GitHub-FirstPythonScript/ExerciseData.gdb"
+arcpy.env.workspace = "D:/GitHub/GitHub-FirstPythonScript/GISProject/ExerciseData.gdb"
 
 # Perform geoprocessing
 selectRiver = arcpy.management.SelectLayerByAttribute("ks_major_rivers", "NEW_SELECTION", "GNIS_Name = 'Kansas River'")
-
 selectCounties = arcpy.management.SelectLayerByLocation("TIGER2010_Census_County", "INTERSECT", selectRiver, "", "NEW_SELECTION")
-
 arcpy.management.CopyFeatures(selectCounties, "SelectedCounties")
